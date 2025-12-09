@@ -1,0 +1,3 @@
+"C:\Program Files\Microsoft Visual Studio\18\Insiders\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\gcc_tranning.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\gcc_tranning.dir/objects.a @CMakeFiles\gcc_tranning.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\gcc_tranning.dir/objects.a -Wl,--no-whole-archive -o gcc_tranning.exe -Wl,--out-implib,libgcc_tranning.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gcc_tranning.dir\linkLibs.rsp

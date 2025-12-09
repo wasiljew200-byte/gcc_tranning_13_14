@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20251209-1718-Experimental"
+	Name="DESKTOP-IV5CVRN"
+	Generator="ctest-4.1.1-msvc4"
+	CompilerName="C:/msys64/ucrt64/bin/g++.exe"
+	CompilerVersion="15.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-IV5CVRN"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="22224"
+	TotalPhysicalMemory="16104"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2000"
+	>
+	<Testing>
+		<StartDateTime>Dec 10 00:26 [NON-UTF-8-BYTE-0xCE][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xEA][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xE5] [NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xE4][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xF0][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xE5] [NON-UTF-8-BYTE-0xE2][NON-UTF-8-BYTE-0xF0][NON-UTF-8-BYTE-0xE5][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xFF]</StartDateTime>
+		<StartTestTime>1765304784</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 10 00:26 [NON-UTF-8-BYTE-0xCE][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xEA][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xE5] [NON-UTF-8-BYTE-0xF1][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xE4][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xF0][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xEE][NON-UTF-8-BYTE-0xE5] [NON-UTF-8-BYTE-0xE2][NON-UTF-8-BYTE-0xF0][NON-UTF-8-BYTE-0xE5][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xFF]</EndDateTime>
+		<EndTestTime>1765304784</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
